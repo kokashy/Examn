@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">GitExamn</string>
 
+<<<<<<< .merge_file_a01828
     <string name="hello_world">Hello world! b1</string>
+=======
+    <string name="hello_world">Hello world! b2</string>
+>>>>>>> .merge_file_a02708
     <string name="action_settings">Settings</string>
 </resources>
